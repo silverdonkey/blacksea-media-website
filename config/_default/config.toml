@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://blacksea-media.com"
+baseURL = "http://silverdonkey.github.io/blacksea-media-website/"
 title = "BlackSea Media | Digital Marketing & IT Services"
 theme = "airspace-hugo"
 publishDir = "docs"

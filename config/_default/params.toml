@@ -7,25 +7,26 @@ logo = "images/logo.png"
 # Note: logo_width is not work with .svg file
 logo_width = "150px"
 # logo text will only show when logo is missing.
-logo_text = "Black Sea Media"
+logo_text = "Black Sea Media "
 # navbar fixed to top
 navbar_fixed = false
 # OpenGraph / Twitter Card metadata
-description = "Black Sea Media - Digital Marketing & Cloud Services Agency"
+description = "Black Sea Media - Digital Marketing & IT Services"
 author = "Black Sea Media"
 image = "images/logo.png" # this image will be used as fallback if a page has no image of its own
 # Whether to display text descriptors (like "E-mail: ", "Phone: ") before the address block elements
 address_descriptors = false
 # contact info
-phone = "0124857985320"
+phone = "+359887550550"
 email = "info@blacksea-media.com"
 location = """
-**Black Sea Media Ltd** <br/>
+**BlackSea Media 21 Ltd**
 
-North Main Street, Varna, BULGARIA <br/>
-
-Ziegelhüttenweg 17, 60598 Frankfurt am Main, DEUTSCHLAND
+Mladost 110-2<br/>
+9027 Varna<br/>
+Bulgaria
 """
+
 # copyright
 copyright = "[Black Sea Media Ltd](https://blacksea-media.com/)"
 # custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>"
@@ -40,7 +41,7 @@ enable = false
 # Whether to use [Netlify Forms](https://docs.netlify.com/forms/setup/)
 use_netlify = false
 # Whether to use recaptch v3 in form
-use_recaptcha = true
+use_recaptcha = false
 # Form action
 ## Fill in your Form ID URL for Formspree.io, e.g. `https://formspree.io/f/{form_id}`
 ## Ignored if `use_netlify = true` (custom [success page](https://docs.netlify.com/forms/setup/#success-messages) is already included)
@@ -69,7 +70,7 @@ button = "I Accept"
 
 ######################## sidebar widgets #########################
 [widgets]
-sidebar = ["recent_posts", "taxonomy_category", "taxonomy_tags"]
+sidebar = [] # ["recent_posts", "taxonomy_category", "taxonomy_tags"]
 # available widget : categories,tags,recent-post
 
 ############################# social site ########################

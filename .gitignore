@@ -1,4 +1,5 @@
 HELP.md
+.hugo_build.lock
 docs/
 public/
 target/

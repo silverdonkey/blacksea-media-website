@@ -9,7 +9,7 @@ logo_width = "150px"
 # logo text will only show when logo is missing.
 logo_text = "Black Sea Media"
 # navbar fixed to top
-navbar_fixed = true
+navbar_fixed = false
 # OpenGraph / Twitter Card metadata
 description = "Black Sea Media - Digital Marketing & Cloud Services Agency"
 author = "Black Sea Media"

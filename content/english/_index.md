@@ -5,7 +5,7 @@ banner:
   bg_image: "images/slider-bg.jpg"
   bg_overlay: true
   title: "Digital Marketing <br/> & IT Services"
-  content: "We love the Web and the work we do.We work closely with our clients to deliver  the best possible solutions for their needs"
+  content: "Online Marketing Agency and IT Consulting based in Varna on the Black Sea and Frankfurt am Main"
   button:
     enable: false
     label: "Discover Our Project"

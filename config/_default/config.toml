@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://demo.gethugothemes.com/airspace/"
+baseURL = "https://blacksea-media.com"
 title = "Airspace | Creative Agency Hugo Template"
 theme = "airspace-hugo"
 publishDir = "docs"

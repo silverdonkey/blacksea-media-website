@@ -1,0 +1,75 @@
+#################### default parameters ################################
+# favicon
+favicon = "images/favicon.png"
+# logo
+logo = "images/logo.png"
+# use `px` or `x` with logo_width, example: "100px".
+# Note: logo_width is not work with .svg file
+logo_width = "150px"
+# logo text will only show when logo is missing.
+logo_text = "Black Sea Media"
+# navbar fixed to top
+navbar_fixed = true
+# OpenGraph / Twitter Card metadata
+description = "Black Sea Media - Digital Marketing & Cloud Services Agency"
+author = "Black Sea Media"
+image = "images/logo.png" # this image will be used as fallback if a page has no image of its own
+# Whether to display text descriptors (like "E-mail: ", "Phone: ") before the address block elements
+address_descriptors = false
+# contact info
+phone = "0124857985320"
+email = "info@blacksea-media.com"
+location = """
+**Black Sea Media Ltd** <br/>
+
+North Main Street, Varna, BULGARIA <br/>
+
+Ziegelhüttenweg 17, 60598 Frankfurt am Main, DEUTSCHLAND
+"""
+# copyright
+copyright = "[Black Sea Media Ltd](https://blacksea-media.com/)"
+# custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>"
+custom_script= ""
+# google tag manager, see https://developers.google.com/tag-manager/
+google_tag_manager = "" # example: G-XXXXXXXXXX
+# recaptch v3 site key
+recaptcha_site_key = "xxx-xxxxxxxxxxxxxxxxxxxxxxxx"
+
+[contact.form]
+enable = false
+# Whether to use [Netlify Forms](https://docs.netlify.com/forms/setup/)
+use_netlify = false
+# Whether to use recaptch v3 in form
+use_recaptcha = true
+# Form action
+## Fill in your Form ID URL for Formspree.io, e.g. `https://formspree.io/f/{form_id}`
+## Ignored if `use_netlify = true` (custom [success page](https://docs.netlify.com/forms/setup/#success-messages) is already included)
+action = "#"
+# Image on custom success page `/message_sent.html`
+success_image = "images/paper-plane.svg"
+
+
+# Preloader
+[preloader]
+enable = true
+preloader = "" # use jpg, png, svg or gif format.
+
+# Navigation button
+[navigation_button]
+enable = true
+label = "get a quote"
+link = "contact"
+
+# cookies
+[cookies]
+enable = false
+expire_days = 2
+content = "This site uses cookies. By continuing to use this website, you agree to their use."
+button = "I Accept"
+
+######################## sidebar widgets #########################
+[widgets]
+sidebar = ["recent_posts", "taxonomy_category", "taxonomy_tags"]
+# available widget : categories,tags,recent-post
+
+############################# social site ########################

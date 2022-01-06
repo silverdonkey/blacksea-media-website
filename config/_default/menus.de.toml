@@ -1,0 +1,44 @@
+############# German navigation ##############
+
+# main menu
+[[main]]
+name = "Startseite"
+url = ""
+weight = 1
+
+[[main]]
+name = "Über uns"
+url = "about/"
+weight = 2
+
+  [[main]]
+  name = "Leistungen"
+  url = "service/"
+  weight = 3
+
+[[main]]
+name = "Kontakt"
+url = "contact/"
+weight = 4
+
+
+# footer menu
+[[footer]]
+name = "Startseite"
+url = ""
+weight = 1
+
+[[footer]]
+name = "Über uns"
+url = "about/"
+weight = 2
+
+[[footer]]
+name = "Leistungen"
+url = "service/"
+weight = 3
+
+[[footer]]
+name = "Kontakt"
+url = "contact/"
+weight = 4

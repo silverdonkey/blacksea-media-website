@@ -45,7 +45,7 @@ featured_service:
 ############################# Service ###############################
 service:
   enable: true
-  title: "Our Services"
+  title: "Unsere Leistungen"
   description:
     "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, <br> there live the
     blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics"
@@ -71,23 +71,23 @@ service:
       content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
 
     # service item loop
-    - icon: ion-headphone #https://fontawesome.com/v5.15/icons
-      name: Logo Design
+    - icon: fas fa-headphones-alt #https://fontawesome.com/v5.15/icons
+      name: Digitale Transformation
       content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
 
     # service item loop
     - icon: fas fa-leaf #https://fontawesome.com/v5.15/icons
-      name: Development
+      name: Software Entwicklung
       content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
 
     # service item loop
-    - icon: ion-planet #https://fontawesome.com/v5.15/icons
-      name: Brand Identity
+    - icon: fas fa-globe-asia #https://fontawesome.com/v5.15/icons
+      name: Mobile und Cloud
       content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
 
     # service item loop
-    - icon: ion-earth #https://fontawesome.com/v5.15/icons
-      name: Brand Identity
+    - icon: fas fa-bug #https://fontawesome.com/v5.15/icons
+      name: Integration und API Management
       content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
 
 ############################# call to action #################################

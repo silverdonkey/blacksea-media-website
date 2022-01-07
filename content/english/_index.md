@@ -4,7 +4,7 @@ banner:
   enable: true
   bg_image: "images/slider-bg.jpg"
   bg_overlay: true
-  title: "Digital Marketing <br/> & IT Services"
+  title: "Black Sea Media 21<br/>Digital Marketing & IT Services"
   content: "Online Marketing Agency and IT Consulting based in Varna on the Black Sea and Frankfurt am Main"
   button:
     enable: false
